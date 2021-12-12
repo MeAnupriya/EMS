@@ -1,5 +1,10 @@
 # EMS
 
+Technologies Used : PHP Codeigniter 
+Database          : MySql
+                   WAMP Server
+
+
 Step 1: Unzip the Folder Employee
 Step 2: Find the folder Employee, with in the folder sql and a sample csv file
 Project name :- Employee
